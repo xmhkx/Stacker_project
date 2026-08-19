@@ -4,6 +4,15 @@ A two-microcontroller arcade game inspired by the classic **Stacker** game. The 
 
 The **PIC16F1829** handles the user interface, button input, LCD display, game level tracking, and communication with the Arduino. The **Arduino** controls the LED matrix and runs the main game mechanics, including block movement, overlap detection, speed progression, and win/loss detection.
 
+## Demo
+
+[Watch the Stacker Arcade Game Demo](docs/stacker_demo.mov)
+
+## Project Photos
+
+![Completed Stacker Arcade Game](docs/stacker_build.jpeg)
+
+
 ---
 
 ## Project Overview
@@ -24,7 +33,7 @@ The player wins by successfully stacking blocks all the way to the top of the 32
 
 ## System Architecture
 
-```text
+
                            ┌─────────────────┐
                            │   Push Button   │
                            └────────┬────────┘
