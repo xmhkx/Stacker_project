@@ -2,8 +2,8 @@
 # PIC / XC8 build files
 # =========================
 
-pic_master/_build/
-pic_master/out/
+**_build/
+**out/
 
 # MPLAB / XC8 generated files
 *.hex
