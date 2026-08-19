@@ -6,7 +6,7 @@ The **PIC16F1829** handles the user interface, button input, LCD display, game l
 
 ## Demo
 
-[Watch the Stacker Arcade Game Demo](docs/stacker_demo.mov)
+[Watch the Stacker Arcade Game Demo](docs/stacker_demo.mp4)
 
 ## Project Photos
 
