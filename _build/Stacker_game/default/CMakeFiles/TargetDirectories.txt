@@ -1,0 +1,4 @@
+C:/Users/Matth/Stacker_project/_build/Stacker_game/default/CMakeFiles/Stacker_game_default_default_XC8_compile.dir
+C:/Users/Matth/Stacker_project/_build/Stacker_game/default/CMakeFiles/Stacker_game_default_image_eU9zVWPZ.dir
+C:/Users/Matth/Stacker_project/_build/Stacker_game/default/CMakeFiles/edit_cache.dir
+C:/Users/Matth/Stacker_project/_build/Stacker_game/default/CMakeFiles/rebuild_cache.dir

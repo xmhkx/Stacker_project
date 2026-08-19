@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Matth/Stacker_project/_build/Stacker_game/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v2.50\\bin\\xc8-cc.exe -DXPRJ_default=default -D__16F1829__ -c -mcpu=16F1829 -mdfp=C:/Users/Matth/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.9.258/xc8 -fno-short-double -fno-short-float -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits -std=c99 -gdwarf-3 -mno-const-data-in-config-mapped-progmem -mstack=compiled:auto:auto -o CMakeFiles\\Stacker_game_default_default_XC8_compile.dir\\C_\\Users\\Matth\\Stacker_project\\pic_master\\main.c.p1 -c C:\\Users\\Matth\\Stacker_project\\pic_master\\main.c",
+  "file": "C:/Users/Matth/Stacker_project/pic_master/main.c",
+  "output": "C:/Users/Matth/Stacker_project/_build/Stacker_game/default/CMakeFiles/Stacker_game_default_default_XC8_compile.dir/C_/Users/Matth/Stacker_project/pic_master/main.c.p1"
+}
+]

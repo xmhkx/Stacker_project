@@ -1,0 +1,38 @@
+# =========================
+# PIC / XC8 build files
+# =========================
+
+pic_master/_build/
+pic_master/out/
+
+# MPLAB / XC8 generated files
+*.hex
+*.elf
+*.map
+*.lst
+*.as
+*.o
+*.obj
+*.cof
+*.d
+
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+
+# =========================
+# General temporary files
+# =========================
+
+*.tmp
+*.bak
+*.swp
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
